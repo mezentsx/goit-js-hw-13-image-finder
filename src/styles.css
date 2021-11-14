@@ -61,7 +61,6 @@ body {
 .img-thumb {
   width: 320px;
   height: 220px;
-  /* overflow: hidden; */
 }
 
 .photo-card__img {
@@ -73,7 +72,6 @@ body {
 }
 
 .photo-card {
-  /* width: 300px; */
   margin-left: auto;
   margin-right: auto;
 

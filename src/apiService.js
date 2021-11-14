@@ -17,6 +17,7 @@ export default class NewsApiService {
             })
             .then(data => {
                 this.incrementPage();
+                console.log(data)
                 
                 return data.hits;
             });
